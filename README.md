@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Gerador de Lero-Lero
 
+Feito durante o Gama Experience
 Projeto disponível em https://vigorous-clarke-61e80f.netlify.com/
 
 ## Available Scripts
